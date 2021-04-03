@@ -1,0 +1,4 @@
+base\entity\Customer.class
+base\Main.class
+base\loggerManager\LoggerManagerDefault.class
+base\entityManager\EntityManagerDefault.class
